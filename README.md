@@ -1,4 +1,4 @@
-# Java-Hibernate-MySql-Web-Application-Stock-Management-System
+# Java Hibernate MySql Web Application Stock Management System
 <p>
 Bu proje Depo sahiplerinin Müşteri Stok Alış-Satış Kasa Fatura gibi işlemlerini yönetebilmesine imkan sağlama amacıyla oluşturalan depo sistem takip otomasyon projesidir.
 </p>
