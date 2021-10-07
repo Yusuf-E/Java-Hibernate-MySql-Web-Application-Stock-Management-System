@@ -67,11 +67,11 @@ This project is a warehouse tracking automation project created for that warehou
 <a href="https://github.com/Yusuf-E/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/12.jpg" target="_blank">
 <img src="https://github.com/Yusuf-E/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/12.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/Yusuf-E/Java-Sqlite-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/13.jpg" target="_blank">
-<img src="https://github.com/Yusuf-E/Java-Sqlite-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/13.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/Yusuf-E/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/13.jpg" target="_blank">
+<img src="https://github.com/Yusuf-E/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/13.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/Yusuf-E/Java-Sqlite-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/14.jpg" target="_blank">
-<img src="https://github.com/Yusuf-E/Java-Sqlite-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/14.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/Yusuf-E/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/14.jpg" target="_blank">
+<img src="https://github.com/Yusuf-E/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/14.jpg" width="200" style="max-width:100%;"></a>
   
 <a href="https://github.com/Yusuf-E/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/15.jpg" target="_blank">
 <img src="https://github.com/Yusuf-E/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/15.jpg" width="200" style="max-width:100%;"></a>
