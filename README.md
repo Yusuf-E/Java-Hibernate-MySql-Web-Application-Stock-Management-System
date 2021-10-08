@@ -14,13 +14,13 @@ This project is a warehouse tracking automation project created for that warehou
 | ------------- |:-------------:|:-------------:|
 | Java | :arrow_right: | 90 |
 | Servlet | :arrow_right: | 80 |
-| MySQL | :arrow_right: | 75 |
-| Hibernate | :arrow_right: | 70 |
+| MySQL | :arrow_right: | 80 |
+| Hibernate | :arrow_right: | 80 |
 | HTML | :arrow_right: | 70 |
-| CSS | :arrow_right: | 65 |
-| JavaScript | :arrow_right: | 60 |
+| CSS | :arrow_right: | 70 |
+| JavaScript | :arrow_right: | 70 |
 | Bootstrap 5 | :arrow_right: | 70 |
-| jQuery | :arrow_right: | 60 |
+| jQuery | :arrow_right: | 70 |
 
 ## Demo Account
 | :closed_lock_with_key: Username | :old_key: Password |
